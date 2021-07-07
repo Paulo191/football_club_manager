@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="493.0" prefWidth="712.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.JogadoresController">
+   <children>
+      <Button mnemonicParsing="false" onAction="#voltar" text="Voltar" />
+      <Label prefHeight="41.0" prefWidth="615.0" text="  TIME">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="75.0" fitWidth="75.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="/imgs/1200px-Chelsea_FC.svg.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <padding>
+            <Insets top="10.0" />
+         </padding>
+      </Label>
+      <TableView fx:id="tabela1" prefHeight="426.0" prefWidth="712.0">
+        <columns>
+          <TableColumn fx:id="nome" prefWidth="200.0" text="Nome" />
+          <TableColumn fx:id="posicao" prefWidth="75.0" text="Posição" />
+            <TableColumn fx:id="habilidade" prefWidth="75.0" text="Habilidade" />
+            <TableColumn fx:id="condicao" prefWidth="75.0" text="Condição" />
+        </columns>
+      </TableView>
+   </children>
+</VBox>
