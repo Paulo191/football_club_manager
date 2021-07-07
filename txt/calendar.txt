@@ -1,0 +1,15 @@
+Quinta,06/12/2018	Acompanhamento de projetos	Entrega parcial projeto 2VA 1
+Segunda,10/12/2018	Acompanhamento de projetos	
+Quinta,13/12/2018	Acompanhamento de projetos	
+Segunda,17/12/2018	Acompanhamento de projetos	
+Quinta,20/12/2018	Acompanhamento de projetos	Entrega parcial projeto 2VA 2?
+Segunda,24/12/2018	RECESSO	
+Quinta,27/12/2018	RECESSO	
+Segunda,31/12/2018	RECESSO	
+Quinta,03/01/2019	RECESSO	
+Segunda,07/01/2019	Acompanhamento de projetos.	Entrega parcial projeto 2VA Beta Release
+Quinta,10/01/2019	2 VA - Apresentações de projetos	
+Segunda,14/01/2019	2 VA - Apresentações de projetos	Entrega final projeto 2VA Final Release
+Quinta,17/01/2019	3 VA: conclusão / melhoria do projeto	
+Segunda,21/01/2019	Prova Final: conclusão / melhoria do projeto	
+Quinta,24/01/2019	

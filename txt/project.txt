@@ -1,0 +1,89 @@
+START
+
+1 NEW GAME
+
+Caso exista um save, perguntar se deseja apagar e criar um novo.
+
+1.1
+
+Escolhe entre os times existentes na liga.
+Digita  o nome do Tecnico e a data de nascimento.
+
+1.2
+
+Tela de jogo (vide 13.png)
+
+1.2.1
+Dados sobre o jogador selecionado (vide 14.png)
+Acrescimento de novos atributos na classse jogador para armazenar os atributos de jogadas na liga( ex:jogos que ele participou, gols feitos.)
+
+1.2.2
+
+Finanças do time (vide 15.png)
+Acrescimento da classe de finanças visto que é maior que um simples 'caixa' para o time.
+
+1.2.3
+
+Calendario de jogos (vide 18.png)
+Embaralhamento dos times para os jogos da rodada, não considerar que os jogos da liga acontecem todos no mesmo dia(???), os resultados
+dos jogos aparecerão todos na tabela de classificação da liga (vide 20.png), a depender da quantidade de times na liga ajustar o tempo
+entre os jogos do clube selecionado para a gameplay(acredito que no bf seja utilizado a sequencia de intervalo de 2 dias 3x e então um
+intervalo de 3 dias para o proximo jogo).
+
+1.2.4
+
+Tabela de classificação (vide 20.png)
+Acrescimento de novos atributos na classe clube (vide 20.png para a lista detalhada) para compor a tabela da temporada.
+
+1.2.5
+
+Acrescimento da classe Estadio para os clubes (vide 21.png), associado aos preços dos ingressos do clube para gerar receita.
+
+1.2.5.1
+
+Expansao do Estadio (vide 22.png e 23.png).
+
+1.2.6
+
+Tabela da composição dos times (vide 26.png).
+Apresentação dos dados do time, em relação a calendario, classificação, etc.
+//Emprestimo, comprar, fazer oferta.
+
+1.2.7
+Leilão de jogadores (vide 28.png e 29.png).
+
+1.2.9
+Ranking de tecnicos (vide 31.png)
+Acrescimento de novos atributos na classe tecnico para armazenas os atributos de jogos da liga.
+
+1.2.10
+(Vide 43.png)
+
+1.2.10.1
+Salvar jogo(vide 44.png)
+
+1.2.10.2
+Demissão (vide 46.png)
+
+1.2.10.3
+Sobre o jogo (vide 47.png)
+
+1.3
+
+Inicio da partida (vide 13.png, "Escalar Time).
+
+(Vide 48.png)
+
+Tela com drag&drop para realizar a formação do time, faz-se necessario estudar a implementaçõa de sistemas como a concentraçãod e ataques, marcação, e estilo de jogo.
+A formação permanecerá salva ou faz-se necessario refazela em cada escalação?
+Caixa de texto com os stats ao passar por cima dos jogadores (vide 49.png).
+
+1.3.1
+Tela da partida(Vide 50.png, 51.png, 52.png, 53.png).
+
+A tela provavelmente será padronizada com a 53.png com os devidos ajustes e durante a troca de tempos do jogo ou casos especiais, telas especiais(vide 52.png por exemplo.)
+
+
+2 CONTINUE
+
+3 EDITOR?

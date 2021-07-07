@@ -1,0 +1,27 @@
+SCENES
+
+1
+
+TELA INICIAL:
+
+NOVO JOGO
+JOGOS SALVOS
+EDITOR EQUIPES
+-REGISTRAR JOGO
+
+2
+
+2.1 NOVO JOGO:
+
+
+2.2 JOGOS SALVOS:
+
+
+2.3 EDITOR EQUIPES:
+
+
+2.4 REGISTRAR JOGO:
+Seria um sistema de login/password?
+Request Nome e Senha.
+
+
